@@ -1,0 +1,110 @@
+#login{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(8, 51, 136);
+    padding: 30px;
+    margin: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.personal{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(8, 51, 136);
+    padding: 30px;
+    margin: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.professional{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(70, 6, 85);
+    padding: 30px;
+    margin: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.qualification{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(58, 5, 45);
+    padding: 30px;
+    margin: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+.submit{
+    text-align: center;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=pwd], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=number], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #2a22c7;
+}
+
+
+
+
+/* the hover works for the inside reflection of whatever you call it for  */
+input[type=reset]:hover {
+    background-color: #2a22c7;
+}
+
+input:hover {
+    background-color: rgb(207, 219, 207);
+    color: #fff;
